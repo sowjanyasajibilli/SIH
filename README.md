@@ -8,7 +8,7 @@ This application is used to send emergengy alert and loction related information
 
 # TECHNOLIGIES
 - For stability and other related reasons we choose Android studios Platform
-- we used java programng as our base language
+- we used java and koitin programng as our base language
 - we used xml for the front end designing
 - we used google fire base as the database
 - Involved GPS technology for location detection 

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">PhoneAuthKT</string>
+    <string name="ambluanbe">AMBLUANCE</string>
+    <string name="police">POLICE</string>
+    <string name="fire">FIRE</string>
+    <string name="es">ES</string>
+    <string name="title_activity_ambulance">Ambulance_Activity</string>
+    <string name="emergency_services">EMERGENCY_SERVICES</string>
+    <string name="apf">APF</string>
+    <string name="google_map_api_key">AIzaSyDYK0a8cjlm0u6H5naITalb81hEiLx1qQU</string>
+    <string name="user">USER</string>
+    <string name="signup_login">SIGNUP/LOGIN</string>
+    <string name="mobile">MOBILE</string>
+    <string name="_91">+91</string>
+    <string name="one_or_two">ONE OR TWO</string>
+    <string name="more_than_two">MORE THAN TWO</string>
+    <string name="sos">SOS</string>
+    <string name="press_the_sos_button">PRESS THE SOS BUTTON</string>
+    <string name="getotp">getotp</string>
+    <string name="special_code">special code</string>
+    <string name="otp">otp</string>
+    <string name="emergency">EMERGENCY</string>
+    <string name="no_fire_engine">NO FIRE ENGINE</string>
+    <string name="need_fire_engine">NEED FIRE ENGINE</string>
+    <string name="_0">0</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify">Verify</string>
+    <string name="type_your_number">Type your number</string>
+    <string name="type_your_code">type your code</string>
+    <string name="send_otp">Send otp</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="select_the_authnedication_type">SELECT AUTHENDICATION TYPE</string>
+    <string name="login_with_mobile_number">Login with Mobile number</string>
+    <string-array name="select">
+        <item>USER</item>
+        <item>APF</item>
+    </string-array>
+</resources>

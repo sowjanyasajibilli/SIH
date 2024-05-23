@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "902948712001",
+    "project_id": "otp-verification-d4bd4",
+    "storage_bucket": "otp-verification-d4bd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902948712001:android:087a9ec979e583a739e0c0",
+        "android_client_info": {
+          "package_name": "com.codingstuff.phoneauthkt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902948712001-ek5ar5mqjthba27nmch8mc34m9mmgniq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJc8ca88m0DXA3CWespC1UA35fjlBncs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902948712001-ek5ar5mqjthba27nmch8mc34m9mmgniq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902948712001:android:5f740a6f600de8e939e0c0",
+        "android_client_info": {
+          "package_name": "com.example.logsignsql"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902948712001-jsl0n6338m8f766g38ae95h33vg215r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logsignsql",
+            "certificate_hash": "e63844e66c9ee78bfb0603ef08e23120bfef0bc9"
+          }
+        },
+        {
+          "client_id": "902948712001-ek5ar5mqjthba27nmch8mc34m9mmgniq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJc8ca88m0DXA3CWespC1UA35fjlBncs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902948712001-ek5ar5mqjthba27nmch8mc34m9mmgniq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902948712001:android:b5c5fbaae323e11d39e0c0",
+        "android_client_info": {
+          "package_name": "com.learnoset.loginregister04"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902948712001-ek5ar5mqjthba27nmch8mc34m9mmgniq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJc8ca88m0DXA3CWespC1UA35fjlBncs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902948712001-ek5ar5mqjthba27nmch8mc34m9mmgniq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

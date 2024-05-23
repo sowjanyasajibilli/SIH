@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/emergency"
+        android:label="APFS"
+        android:roundIcon="@mipmap/ic_launcher_foreground"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PhoneAuthKT">
+        <activity android:name="com.codingstuff.PhoneActivity"
+            android:exported="true"/>
+        <activity
+            android:name="com.codingstuff.OTPActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.codingstuff.OTPActivity1"
+            android:exported="true" />
+        <activity
+            android:name="com.codingstuff.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.codingstuff.Authendication"
+            android:exported="true">
+
+        </activity>
+        <activity android:name="com.codingstuff.Main3"/>
+        <activity android:name="com.codingstuff.Main2"/>
+        <activity android:name="com.codingstuff.Main1"/>
+        <activity android:name="com.codingstuff.Phone"/>
+        <activity android:name="com.codingstuff.scode"/>
+        <activity android:name="com.codingstuff.PoliceActivity"/>
+        <activity android:name="com.codingstuff.AmbulanceActivity"/>
+        <activity android:name="com.codingstuff.ApfActivity"/>
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_map_api_key"/>
+
+    </application>
+
+</manifest>

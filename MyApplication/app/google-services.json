@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336996266323",
+    "project_id": "otpv-6ece1",
+    "storage_bucket": "otpv-6ece1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336996266323:android:7e41af940867cc950bf1a6",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2AlyYoiechOld66i6iGbHiSEKZEAAWUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

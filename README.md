@@ -60,7 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## CONTACT
 
-For any queries or further information, please contact me at [Your Email] or connect with me on [LinkedIn](https://www.linkedin.com/in/bhuvaneswar-adi-6ba43426a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+For any queries or further information, please contact me at [bhuvaneswar88862@gmail.com ] or connect with me on [LinkedIn](https://www.linkedin.com/in/bhuvaneswar-adi-6ba43426a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 
 ---
 

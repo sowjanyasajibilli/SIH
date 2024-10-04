@@ -2,6 +2,15 @@
 
 Welcome to the Smart India Hackathon (SIH) repository! This repository documents my progress and assignments during my participation in the Smart India Hackathon. Here, we are working on a prototype that aims to enhance emergency response efficiency by providing real-time alerts and location information to emergency rescue teams.
 
+## TEAM MEMBERS
+
+- **[E.Bhargav reddy ]**
+- **[M.Ravindra Babu]**
+- **[A.Bhuvanswar ]**
+- **[N.Balaji ]**
+- **[S.Sowjanya]**
+- **[P.Bhavani ]**
+
 ## PROTOTYPE OVERVIEW
 
 This application is designed to send emergency alerts and location-related information to emergency rescue teams, including ambulances, hospitals, fire departments, and police. The goal is to facilitate quicker and more effective responses during critical situations.

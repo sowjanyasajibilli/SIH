@@ -34,7 +34,7 @@ This application is designed to send emergency alerts and location-related infor
 
 1. **Clone the Repository**: Start by cloning this repository to your local machine using:
    ```bash
-   git clone https://github.com/Bhuvanswar/sih-repository.git
+   git clone https://github.com/sowjanyasajibilli/sih-repository.git
 1. **Open in Android Studio**: Import the project into Android Studio.
   
 2. **Build the Project**: Ensure all dependencies are installed, then build the project.
@@ -61,7 +61,7 @@ We welcome contributions from the community! To contribute:
 
 ## GETTING HELP
 
-If you encounter any issues, please feel free to open an issue on GitHub, or reach out through [bhuvaneswar88862@gmail.com ]. We appreciate your feedback and suggestions to improve the application.
+If you encounter any issues, please feel free to open an issue on GitHub, or reach out through [sajibillisowjanya1@gmail.com]. We appreciate your feedback and suggestions to improve the application.
 
 ## LICENSE
 
@@ -69,7 +69,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## CONTACT
 
-For any queries or further information, please contact me at [bhuvaneswar88862@gmail.com ] or connect with me on [LinkedIn](https://www.linkedin.com/in/bhuvaneswar-adi-6ba43426a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+For any queries or further information, please contact me at [sajibillisowjanya1@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/sowjanya-sajibilli-86342526a/).
 
 ---
 
